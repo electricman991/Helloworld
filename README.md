@@ -1,8 +1,10 @@
 # Overview
 
-Classic Hello World progam
+Classic Hello World program
 
-[Software Demo Video](url)
+Created as first program in repository.
+
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
@@ -10,9 +12,8 @@ Classic Hello World progam
 * Visual Studio Code
 * Git / Github
 
-# Usefu Websites
+# Useful Websites
 
 * [Git](url)
 * [Web Site Name](url)
 
-![recipe box](file)
