@@ -2,13 +2,11 @@
 
 Simple Hello World program
 
-You can watch a demo of my software here.
-
-[Software Demo Video](http://youtube.link.goes.here)
+You can watch a demo of my software here: [Software Demo Video](https://youtu.be/umANza-Mqrs)
 
 # Development Environment
 
-* python 3.9.5 64 bit
+* Python 3.9.5 64 bit
 * Visual Studio Code
 * Git / Github
 
