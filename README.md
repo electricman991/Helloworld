@@ -1,19 +1,19 @@
 # Overview
 
-Classic Hello World program
+Simple Hello World program
 
-Created as first program in repository.
+You can watch a demo of my software here.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-* Python 3.9.5 64 bit
+* python 3.9.5 64 bit
 * Visual Studio Code
 * Git / Github
 
 # Useful Websites
 
-* [Git](url)
-* [Web Site Name](url)
+* [Git](https://git-scm.com/)
+* [Visual Studio Code and Github](https://code.visualstudio.com/docs/editor/versioncontrol)
 
